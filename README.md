@@ -1,2 +1,3 @@
-# Front-end-Feeds
-Feeds de blogs pt-br/en de Front-end, UX, SEO eDesenvolvimento Web.
+## Frontend Feeds
+
+Feeds com artigos de blogs pt-br/en de Front-end, UX/Design, SEO e Desenvolvimento Web.
